@@ -1,4 +1,4 @@
-# Hi there, I'm Mikey Rodriguez 👋
+# Hi there, I'm Jose Rodriguez 👋
 
 ### Software Developer | AI Enthusiast | Lifelong Learner
 
