@@ -3,21 +3,16 @@
 ### Software Developer | AI Enthusiast | Lifelong Learner
 
 I enjoy building software that solves real problems and exploring how emerging technologies can improve the way we work and live.
-
 I'm passionate about understanding things deeply, continuously improving my skills, and transforming ideas into practical solutions.
-
 ---
 
 ## 🚀 About Me
-
 - 💻 Software Developer focused on building useful applications.
 - 🤖 Exploring Artificial Intelligence, AI Agents, and automation.
 - 📱 Learning and developing with Expo and React Native.
 - 🌐 Interested in Full-Stack Development and modern technologies.
 - 📚 I believe in mastering fundamentals and understanding the "why" behind things.
 - 🎯 Constantly working on projects that challenge me to grow.
-
----
 
 ## 🛠️ Technologies & Tools
 
@@ -30,7 +25,7 @@ I'm passionate about understanding things deeply, continuously improving my skil
 
 ### Frontend
 - React
-- React Native
+- React Native CLI
 - Expo
 
 ### Backend
@@ -52,41 +47,15 @@ I'm passionate about understanding things deeply, continuously improving my skil
 - Prompt Engineering
 - Automation Workflows
 
----
-
-## 📌 Featured Projects
-
-Here are some of the projects I'm most proud of:
-
-### 🔹 Project Name
-Short description of what the project does and the problem it solves.
-
-### 🔹 Project Name
-Short description of what the project does and the technologies used.
-
-### 🔹 Project Name
-Short description of what makes this project interesting.
-
-> *(Update these sections as your portfolio grows.)*
-
----
-
 ## 📈 What I'm Working On
-
 - Building real-world software projects.
 - Improving my knowledge of AI and agent-based systems.
 - Expanding my mobile development skills.
 - Continuously learning and sharing what I discover.
 
----
-
 ## 🌱 Philosophy
-
 > "Learn deeply. Build consistently. Improve every day."
-
 I believe that true expertise comes from curiosity, discipline, and understanding the principles behind what we create.
-
----
 
 ## 🤝 Let's Connect
 
