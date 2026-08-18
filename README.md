@@ -1,9 +1,11 @@
 ## Hi, I'm Jose Rodriguez — but everyone calls me Mikey 👋
 
-### Software Developer | AI Enthusiast | Lifelong Learner
+### Full-Stack Software Engineer | Web • Mobile • Desktop | Game Modding
 
-I enjoy building software that solves real problems and exploring how emerging technologies can improve the way we work and live.
-I'm passionate about understanding things deeply, continuously improving my skills, and transforming ideas into practical solutions.
+Since I was a kid, I've always been fascinated by technology and how it can be used to solve problems and entertain people. However, 
+I realized that not everyone has access to technology or the tools it provides. Since this is something I genuinely enjoy, 
+I decided to become part of this amazing community, helping people gain access to technology and use it to solve real-world problems.
+
 ---
 
 ## 🚀 About Me
