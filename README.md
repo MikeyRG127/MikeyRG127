@@ -7,8 +7,6 @@ Since I was a kid, I've always been fascinated by technology and how it can be u
 ---
 
 ### 🚀 About Me
-> **Qué debe haber aquí:** Los reclutadores escanean esta sección en 5 segundos. Debes destacar tu nivel de *seniority*, tu enfoque principal de ingeniería y tu capacidad para manejar sistemas complejos. Evita sonar como si estuvieras "solo aprendiendo"; posicionate como un experto que sigue evolucionando.
-
 * 💻 Software Engineer with **6 years of professional experience** building and scaling robust applications across multiple platforms.
 * 🏗️ Specialized in designing secure backend architectures, optimizing server-side performance, and developing seamless user experiences.
 * 🧠 Deeply focused on mastering advanced software engineering paradigms, system design, and algorithmic problem-solving.
