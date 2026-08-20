@@ -2,16 +2,15 @@
 
 **Full-Stack Software Engineer | Web • Mobile • Desktop | Game Modding**
 
-Since I was a kid, I've always been fascinated by technology and how it can be used to solve problems and entertain people. However, I realized that not everyone has access to technology or the tools it provides. Since this is something I genuinely enjoy, I decided to become part of this amazing community, helping people gain access to technology and use it to solve real-world problems.
+The purpose of making software has always been to solve difficult tasks to make our lives easier. 
+As humans, we always want to make things easier for ourselves. Software will never die.
 
 ---
 
 ## 🚀 About Me 
 * 💻 **6+ years** of professional experience building and scaling robust applications across multiple platforms.
-* 🏗️ Specialized in designing secure backend architectures, optimizing server-side performance, and developing seamless user experiences.
+* 🏗️ **Specialized in Full-Stack architecture**, building and optimizing high-performance systems across frontend and backend.
 * 🧠 Deeply focused on mastering advanced software engineering paradigms, system design, and algorithmic problem-solving.
-* 🎯 Passionate about bridging the gap between complex backend logic (like custom server mechanics) and engaging frontend interfaces.
-
 ---
 
 ### 🏆 Featured Projects (What I Build)
