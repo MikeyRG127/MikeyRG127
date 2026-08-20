@@ -20,11 +20,10 @@
 
 #### 🏦 [BenCash Group](https://bencashgroup.com/) — Virtual Banking & Cross-Border Fintech Platform
 *Full-fledged virtual banking ecosystem for international remittances, digital wallets, multi-tier agent hierarchies, and loan management.*
-* **Enterprise Backoffice Portal (Angular):** Engineered the core operational web platform managing cross-border money transfers, loan issuance, utility payments, and a multi-tier organizational hierarchy (Regional Managers, Sub-Agents, and End-Users) with complex approval workflows.
-* **Android Mobile App (React Native & Expo):** Developed 100% of the frontend for the Android application, delivering an intuitive Virtual Wallet interface and leveraging a hybrid architecture with embedded Angular components via WebViews for specialized transactional flows.
+* **Enterprise Backoffice Portal (Angular):** In charge of the full development of the core operational web platform managing cross-border money transfers, loan issuance, utility payments, and a multi-tier organizational hierarchy (Regional Managers, Sub-Agents, and End-Users, and more) with complex approval workflows.
+* **Android Mobile App (React Native & Expo):** Developed 100% of their Android application, delivering an intuitive Virtual Wallet interface and leveraging a hybrid architecture with embedded Angular components via WebViews for specialized transactional flows.
 * **High-Value Financial Security:** Implemented financial-grade protocols for international remittances and high-value operations, including idempotent transaction handling, multi-currency data validation, secure tokenization, and strict audit logging.
 * **Tech Stack:** Angular, React Native, Expo, TypeScript, WebViews, REST APIs.
-* *(Production System — Client link: [bencashgroup.com](https://bencashgroup.com/))*
 
 #### 🎵 Independent Music Streaming Platform
 *A highly secure, scalable streaming service focused on performance and fraud prevention.*
