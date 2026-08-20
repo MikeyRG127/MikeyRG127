@@ -25,11 +25,26 @@
 * **High-Value Financial Security:** Implemented financial-grade protocols for international remittances and high-value operations, including idempotent transaction handling, multi-currency data validation, secure tokenization, and strict audit logging.
 * **Tech Stack:** Angular, React Native, Expo, TypeScript, WebViews, REST APIs.
 
-#### 🎵 Independent Music Streaming Platform
-*A highly secure, scalable streaming service focused on performance and fraud prevention.*
-* **Architecture & Security:** Engineered custom backend systems to handle high concurrency and implemented advanced anti-bot fraud detection and behavior-mimicry defense mechanisms.
-* **Impact:** Designed the platform architecture to safeguard streaming metrics and ensure stability for an upcoming public launch.
-* **Tech Stack:** Node.js, Express, React, TypeScript, MySQL.
+#### 📊 [ValoraCatalog](https://valoracatalog.com/) — Enterprise ERP & Retail Management Ecosystem
+*Comprehensive business management suite integrating real-time inventory tracking, backoffice ERP workflows, and multi-terminal POS cashier systems.*
+
+* **Enterprise Backoffice Platform (Angular):** Engineered full-stack web administration portals for complete ERP business operations, catalog management, multi-store logistics, and real-time financial reporting.
+* **Mobile Inventory & Auditing System (React Native CLI):** Built a high-performance mobile application tailored for warehouse stock counting, high-speed inventory auditing, and seamless catalog synchronization.
+* **POS & Cashier Applications (.NET):** Developed core desktop/service point-of-sale (POS) modules for buyer and seller registers, handling real-time checkout transactions, terminal synchronization, and register balancing.
+* **Tech Stack:** `Angular` • `React Native CLI` • `.NET / C#` • `TypeScript` • `RESTful APIs`
+
+#### 🎵 Independent Music Streaming Platform — Scalable & Anti-Fraud Backend
+*High-concurrency streaming infrastructure engineered with real-time fraud detection and metrics protection.*
+
+* **System Architecture:** Engineered custom distributed backend workflows to support heavy concurrent audio streaming with low latency.
+* **Anti-Bot & Anti-Fraud Engine:** Designed behavioral-analysis mechanisms and anti-bot filters to detect artificially inflated plays and safeguard platform royalty metrics.
+* **Tech Stack:** `Node.js` • `Express` • `React` • `TypeScript` • `MySQL`
+
+* **Enterprise Backoffice Platform (Angular):** Engineered full-stack web administration portals for complete ERP business operations, catalog management, multi-store logistics, and real-time financial reporting.
+* **Mobile Inventory & Auditing System (React Native CLI):** Built a high-performance mobile application tailored for warehouse stock counting, high-speed inventory auditing, and seamless catalog synchronization.
+* **POS & Cashier Applications (.NET):** Developed core desktop/service point-of-sale (POS) modules for buyer and seller registers, handling real-time checkout transactions, terminal synchronization, and register balancing.
+* **Tech Stack:** `Angular` • `React Native CLI` • `.NET / C#` • `TypeScript` • `RESTful APIs`
+* *(Production System — Client link: [valoracatalog.com](https://valoracatalog.com/))*
 
 #### ⚔️ Hytale Custom Server & RPG Ecosystem
 *A comprehensive server-side modification introducing advanced gameplay mechanics.*
