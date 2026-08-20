@@ -37,7 +37,7 @@
 
 ---
 
-### 🌐 Open Source & Commercial Services
+### 🌐 Open Source Projects
 
 * 🛠️ **Custom Engineering & Consulting:** Available for specialized backend architecture, performance optimization, and cross-platform mobile development (React Native/Expo).
 * 🎮 **Game Modding & Open Source Tools:** Developing public tools, server-side mechanics, and backend frameworks for gaming communities.
