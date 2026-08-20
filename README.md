@@ -2,8 +2,7 @@
 
 **Full-Stack Software Engineer | Web • Mobile • Desktop | Game Modding**
 
-> *"The purpose of software is to automate complexity and solve difficult problems to make human life easier. As long as there are problems to solve, software will never die."*
-
+> *"Software will never die as long as there are complex problems to solve."*
 
 ---
 
