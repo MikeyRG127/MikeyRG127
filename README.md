@@ -17,11 +17,11 @@ The purpose of making software has always been to solve difficult tasks to make 
 
 ### 🏆 Featured Engineering Projects
 
-#### 🏦 [BenCash Group](https://bencashgroup.com/) — Fintech & Transaction Platform
-*Fintech mobile application and enterprise backoffice platform for financial operations.*
+#### 🏦 [BenCash Group](https://bencashgroup.com/) — Virtual Banking & Fintech Platform
+*Virtual banking mobile application and enterprise backoffice platform engineered for high-volume, high-value financial operations.*
 * **Enterprise Backoffice Portal (Angular):** Engineered a comprehensive Angular web dashboard used by operations teams to manage financial transactions, utility bill payments, multi-tier approvals for new clients, and sub-agent network onboarding.
 * **Android Mobile App (React Native & Expo):** Developed 100% of the frontend for the Android application, leveraging a hybrid architecture that integrated embedded Angular components via WebViews for specialized transactional modules.
-* **Architecture & Security:** Implemented secure state management, token-based authentication, and optimized API flows to process sensitive financial data and multi-step approvals reliably.
+* **High-Value Transaction Security:** Implemented industry-standard protocols for virtual banking, including strict data validation, idempotent transaction handling, audit logging, and secure tokenization to guarantee data integrity and zero financial loss during high-value operations.
 * **Tech Stack:** Angular, React Native, Expo, TypeScript, WebViews, REST APIs.
 
 #### 🎵 Independent Music Streaming Platform
