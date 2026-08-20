@@ -33,25 +33,6 @@
 * **POS & Cashier Applications (.NET):** Developed core desktop/service point-of-sale (POS) modules for buyer and seller registers, handling real-time checkout transactions, terminal synchronization, and register balancing.
 * **Tech Stack:** `Angular` • `React Native CLI` • `.NET / C#` • `TypeScript` • `RESTful APIs`
 
-#### 🎵 Independent Music Streaming Platform — Scalable & Anti-Fraud Backend
-*High-concurrency streaming infrastructure engineered with real-time fraud detection and metrics protection.*
-
-* **System Architecture:** Engineered custom distributed backend workflows to support heavy concurrent audio streaming with low latency.
-* **Anti-Bot & Anti-Fraud Engine:** Designed behavioral-analysis mechanisms and anti-bot filters to detect artificially inflated plays and safeguard platform royalty metrics.
-* **Tech Stack:** `Node.js` • `Express` • `React` • `TypeScript` • `MySQL`
-
-* **Enterprise Backoffice Platform (Angular):** Engineered full-stack web administration portals for complete ERP business operations, catalog management, multi-store logistics, and real-time financial reporting.
-* **Mobile Inventory & Auditing System (React Native CLI):** Built a high-performance mobile application tailored for warehouse stock counting, high-speed inventory auditing, and seamless catalog synchronization.
-* **POS & Cashier Applications (.NET):** Developed core desktop/service point-of-sale (POS) modules for buyer and seller registers, handling real-time checkout transactions, terminal synchronization, and register balancing.
-* **Tech Stack:** `Angular` • `React Native CLI` • `.NET / C#` • `TypeScript` • `RESTful APIs`
-* *(Production System — Client link: [valoracatalog.com](https://valoracatalog.com/))*
-
-#### ⚔️ Hytale Custom Server & RPG Ecosystem
-*A comprehensive server-side modification introducing advanced gameplay mechanics.*
-* **Engineering:** Developed a highly structured 15-tier RPG progression system, integrating complex active abilities and custom leveling architectures.
-* **Optimization:** Leveraged advanced Java server-side event handling to manage heavy entity loading without creating system bottlenecks during peak concurrent usage.
-* **Tech Stack:** Java, Server-side Scripting, Custom Frameworks.
-
 ---
 
 ### 🌐 Open Source & Commercial Services
