@@ -7,7 +7,7 @@ As humans, we always want to make things easier for ourselves. Software will nev
 
 ---
 
-### 🚀 About Me
+### 😎 About Me
 
 * 💻 **6+ years** of professional experience building and scaling robust applications across multiple platforms.
 * 🏗️ **Specialized in Full-Stack architecture**, building and optimizing high-performance systems across frontend and backend.
