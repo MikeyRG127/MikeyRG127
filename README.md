@@ -34,12 +34,20 @@
 * **Tech Stack:** `Angular` • `React Native CLI` • `.NET / C#` • `TypeScript` • `RESTful APIs`
 
 #### 💼 [Additional Enterprise & Freelance Jobs](https://wwww.mikeyrg.com/) — Personal Website
+
 ---
 
 ### 🌐 Open Source & Commercial Services
 
 * 🛠️ **Custom Engineering & Consulting:** Available for specialized backend architecture, performance optimization, and cross-platform mobile development (React Native/Expo).
 * 🎮 **Game Modding & Open Source Tools:** Developing public tools, server-side mechanics, and backend frameworks for gaming communities.
+
+---
+
+### 💼 Engineering Services & Consulting
+
+I am available for contract, freelance, and custom software engineering projects:
+📧 **Interested in working together?** Reach out directly at [josealbertopersonal@gmail.com(mailto:josealbertopersonal@gmail.com).
 
 ---
 
@@ -68,6 +76,14 @@
 * 🔬 Analyzing structural differences between various programming paradigms and backend frameworks to refine technical decision-making.
 * 📚 Utilizing spaced repetition and active recall to master complex engineering documentation and system design principles.
 * 🤖 Integrating LLMs and AI Agents into practical automation workflows to improve development efficiency.
+
+---
+
+### ☕ Support My Work
+
+If you find my open-source projects, game modding tools, or technical content helpful, you can support my independent work here:
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Buy_me_a_coffee-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/mikeyrg127)
 
 ---
 
