@@ -50,26 +50,6 @@
 
 ---
 
-### 🛠️ Tech Stack & Engineering Arsenal
-
-**Backend & Architecture**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) 
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-
-**Frontend & Mobile**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black) 
-![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-
-**Tools & Practices**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![System Design](https://img.shields.io/badge/-System_Design-4B32C3?logo=architecture&logoColor=white)
-
----
-
 ### ☕ Support My Work
 
 If you find my open-source projects, game modding tools, or technical content helpful, you can support my independent work here:
