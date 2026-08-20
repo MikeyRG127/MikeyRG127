@@ -11,7 +11,8 @@ As humans, we always want to make things easier for ourselves. Software will nev
 
 * 💻 **6+ years** of professional experience building and scaling robust applications across multiple platforms.
 * 🏗️ **Specialized in Full-Stack architecture**, building and optimizing high-performance systems across frontend and backend.
-* 🧠 Deeply focused on mastering advanced software engineering paradigms, system design, and algorithmic problem-solving.
+* 🧠 **Mastering** advanced software engineering paradigms, system design, and algorithmic problem-solving.
+* ⚡ **Leveraging AI as a 10x efficiency tool** giving me the chance to deeply understand complex concepts rather than getting stuck on minor bugs.
   
 ---
 
