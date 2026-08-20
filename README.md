@@ -11,8 +11,6 @@ As humans, we always want to make things easier for ourselves. Software will nev
 * 💻 **6+ years** of professional experience building and scaling robust applications across multiple platforms.
 * 🏗️ **Specialized in Full-Stack architecture**, building and optimizing high-performance systems across frontend and backend.
 * 🧠 Deeply focused on mastering advanced software engineering paradigms, system design, and algorithmic problem-solving.
----
-
 ### 🏆 Featured Projects (What I Build)
 > **Qué debe haber aquí:** Esta es la sección más crítica. Elimina los proyectos pequeños o de tutoriales. Coloca 2 o 3 proyectos donde demuestres arquitectura, manejo de datos, seguridad o rendimiento. Debes explicar el "Qué", el "Cómo" y el "Impacto".
 
