@@ -2,7 +2,7 @@
 
 **Full-Stack Software Engineer | Web • Mobile • Desktop | Game Modding**
 
-The purpose of making software has always been to solve difficult tasks to make our lives easier. As humans, we always want to make things easier for ourselves. Software will never die.
+**The purpose of making software has always been to solve difficult tasks to make our lives easier. As humans, we always want to make things easier for ourselves. Software will never die.**
 ---
 
 ### 🚀 About Me
