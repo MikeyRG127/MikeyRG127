@@ -80,6 +80,6 @@ If you find my open-source projects, game modding tools, or technical content he
 
 ### 🤝 Let's Connect
 
-* **LinkedIn:** [linkedin.com/in/mikeyrg](https://www.linkedin.com/in/mikeyrg127)
+* **LinkedIn:** [linkedin.com/in/mikeyrg](https://www.linkedin.com/in/mikeyrg)
 * **GitHub:** [github.com/MikeyRG127](https://github.com/MikeyRG127)
 * **Email:** [josealbertopersonal@gmail.com]
