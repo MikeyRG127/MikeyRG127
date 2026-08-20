@@ -46,8 +46,8 @@
 
 ### 💼 Engineering Services & Consulting
 
-I am available for contract, freelance, and custom software engineering projects:
-📧 **Interested in working together?** Reach out directly at [josealbertopersonal@gmail.com(mailto:josealbertopersonal@gmail.com).
+* I am available for contract, freelance, and custom software engineering projects:
+* 📧 **Interested in working together?** Reach out directly at [josealbertopersonal@gmail.com(mailto:josealbertopersonal@gmail.com).
 
 ---
 
