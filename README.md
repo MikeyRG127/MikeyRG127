@@ -70,14 +70,6 @@
 
 ---
 
-### 📈 Current Focus
-
-* 🔬 Analyzing structural differences between various programming paradigms and backend frameworks to refine technical decision-making.
-* 📚 Utilizing spaced repetition and active recall to master complex engineering documentation and system design principles.
-* 🤖 Integrating LLMs and AI Agents into practical automation workflows to improve development efficiency.
-
----
-
 ### ☕ Support My Work
 
 If you find my open-source projects, game modding tools, or technical content helpful, you can support my independent work here:
@@ -88,8 +80,6 @@ If you find my open-source projects, game modding tools, or technical content he
 
 ### 🤝 Let's Connect
 
-* **LinkedIn:** [linkedin.com/in/mikeyrg](https://www.linkedin.com/in/mikeyrg)
+* **LinkedIn:** [linkedin.com/in/mikeyrg](https://www.linkedin.com/in/mikeyrg127)
 * **GitHub:** [github.com/MikeyRG127](https://github.com/MikeyRG127)
-* **Email:** [Tu Correo Electrónico]
-
-*Thanks for stopping by! Feel free to explore my pinned repositories below to see my code in action.*
+* **Email:** [josealbertopersonal@gmail.com]
