@@ -33,7 +33,7 @@
 * **POS & Cashier Applications (.NET):** Developed core desktop/service point-of-sale (POS) modules for buyer and seller registers, handling real-time checkout transactions, terminal synchronization, and register balancing.
 * **Tech Stack:** `Angular` • `React Native CLI` • `.NET / C#` • `TypeScript` • `RESTful APIs`
 
-#### 💼 [Addional Enterprice & Freelancer Jobs](https://wwww.mikeyrg.com/) — Personal Website
+#### 💼 [Additional Enterprise & Freelance Jobs](https://wwww.mikeyrg.com/) — Personal Website
 ---
 
 ### 🌐 Open Source & Commercial Services
